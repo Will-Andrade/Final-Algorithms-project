@@ -1,0 +1,12 @@
+ O paciente  
+ Idade 0 
+ Internado no dia: 0 
+ obteve uma cirurgia de sucesso!
+ O paciente  
+ Idade 0 
+ Internado no dia: 0 
+ obteve uma cirurgia de sucesso!
+ O paciente  
+ Idade 0 
+ Internado no dia: 0 
+ obteve uma cirurgia de sucesso!
